@@ -1,0 +1,151 @@
+{
+  "mensJeans" : [
+  
+    {
+      "id" : "1",
+      "name": "Mens Jeans",
+      "img_url" : "Images/MensJeans/img1.jpg",
+      "price" : 1200,
+      "rating": "4.0"
+    }, 
+    {
+      "id" : "2",
+      "name": "Mens Jeans",
+      "img_url" : "Images/MensJeans/img2.jpg",
+      "price" : 1150,
+      "rating": "5.0"
+    },
+    {
+      "id" : "3",
+      "name": "Mens Jeans",
+      "img_url" : "Images/MensJeans/img3.jpg",
+      "price" : 1250,
+      "rating": "5.0"
+    },
+    {
+      "id" : "4",
+      "name": "Mens Jeans",
+      "img_url" : "Images/MensJeans/img4.jpg",
+      "price" : 1000,
+      "rating": "3.0"
+    },
+    {
+      "id" : "5",
+      "name": "Mens Jeans",
+      "img_url" : "Images/MensJeans/img1.jpg",
+      "price" : 1999,
+      "rating": "5.0"
+    },
+
+    {
+      "id" : "6",
+      "name": "Mens Jeans",
+      "img_url" : "Images/MensJeans/img4.jpg",
+      "price" : 1200,
+      "rating": "4.0"
+    }, 
+    {
+      "id" : "7",
+      "name": "Mens Jeans",
+      "img_url" : "Images/MensJeans/img1.jpg",
+      "price" : 1150,
+      "rating": "5.0"
+    },
+    {
+      "id" : "8",
+      "name": "Mens Jeans",
+      "img_url" : "Images/MensJeans/img2.jpg",
+      "price" : 1250,
+      "rating": "5.0"
+    },
+    {
+      "id" : "9",
+      "name": "Mens Jeans",
+      "img_url" : "Images/MensJeans/img3.jpg",
+      "price" : 1000,
+      "rating": "3.0"
+    },
+    {
+      "id" : "10",
+      "name": "Mens Jeans",
+      "img_url" : "Images/MensJeans/img4.jpg",
+      "price" : 1999,
+      "rating": "5.0"
+    },
+    {
+      "id" : "11",
+      "name": "Mens Jeans",
+      "img_url" : "Images/MensJeans/img1.jpg",
+      "price" : 1200,
+      "rating": "4.0"
+    },
+    {
+      "id" : "12",
+      "name": "Mens Jeans",
+      "img_url" : "Images/MensJeans/img4.jpg",
+      "price" : 1200,
+      "rating": "4.0"
+    }, 
+    {
+      "id" : "13",
+      "name": "Mens Jeans",
+      "img_url" : "Images/MensJeans/img2.jpg",
+      "price" : 1150,
+      "rating": "5.0"
+    },
+    {
+      "id" : "14",
+      "name": "Mens Jeans",
+      "img_url" : "Images/MensJeans/img3.jpg",
+      "price" : 1250,
+      "rating": "5.0"
+    },
+    {
+      "id" : "15",
+      "name": "Mens Jeans",
+      "img_url" : "Images/MensJeans/img4.jpg",
+      "price" : 1000,
+      "rating": "3.0"
+    },
+    {
+      "id" : "16",
+      "name": "Mens Jeans",
+      "img_url" : "Images/MensJeans/img1.jpg",
+      "price" : 1999,
+      "rating": "5.0"
+    },
+
+    {
+      "id" : "17",
+      "name": "Mens Jeans",
+      "img_url" : "Images/MensJeans/img4.jpg",
+      "price" : 1200,
+      "rating": "4.0"
+    }, 
+    {
+      "id" : "18",
+      "name": "Mens Jeans",
+      "img_url" : "Images/MensJeans/img2.jpg",
+      "price" : 1150,
+      "rating": "5.0"
+    },
+    {
+      "id" : "19",
+      "name": "Mens Jeans",
+      "img_url" : "Images/MensJeans/img3.jpg",
+      "price" : 1250,
+      "rating": "5.0"
+    },
+    {
+      "id" : "20",
+      "name": "Mens jeans",
+      "img_url" : "Images/MensJeans/img4.jpg",
+      "price" : 1000,
+      "rating": "3.0"
+    }
+   
+
+  ]
+  
+}
+

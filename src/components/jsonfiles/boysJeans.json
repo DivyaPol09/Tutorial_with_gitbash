@@ -1,0 +1,152 @@
+{
+  "boysJeans" : [
+  
+    {
+      "id" : "1",
+      "name": "Boys Jeans",
+      "img_url" : "Images/BoysJeans/img1.jpg",
+      "price" : 1200,
+      "rating": "5.0"
+    }, 
+    {
+      "id" : "2",
+      "name": "Boys Jeans",
+      "img_url" : "Images/BoysJeans/img2.jpg",
+      "price" : 1150,
+      "rating": "5.0"
+    },
+    {
+      "id" : "3",
+      "name": "Boys Jeans",
+      "img_url" : "Images/BoysJeans/img3.jpg",
+      "price" : 1250,
+      "rating": "5.0"
+    },
+    {
+      "id" : "4",
+      "name": "Boys Jeans",
+      "img_url" : "Images/BoysJeans/img4.jpg",
+      "price" : 1000,
+      "rating": "5.0"
+    },
+    {
+      "id" : "5",
+      "name": "Boys Jeans",
+      "img_url" : "Images/BoysJeans/img5.jpg",
+      "price" : 1999,
+      "rating": "5.0"
+    },
+
+    {
+      "id" : "6",
+      "name": "Boys Jeans",
+      "img_url" : "Images/BoysJeans/img4.jpg",
+      "price" : 1200,
+      "rating": "5.0"
+    }, 
+    {
+      "id" : "7",
+      "name": "Boys Jeans",
+      "img_url" : "Images/BoysJeans/img1.jpg",
+      "price" : 1150,
+      "rating": "5.0"
+    },
+    {
+      "id" : "8",
+      "name": "Boys Jeans",
+      "img_url" : "Images/BoysJeans/img2.jpg",
+      "price" : 1250,
+      "rating": "5.0"
+    },
+    {
+      "id" : "9",
+      "name": "Boys Jeans",
+      "img_url" : "Images/BoysJeans/img3.jpg",
+      "price" : 1000,
+      "rating": "5.0"
+    },
+    {
+      "id" : "10",
+      "name": "Boys Jeans",
+      "img_url" : "Images/BoysJeans/img4.jpg",
+      "price" : 1999,
+      "rating": "5.0"
+    },
+    {
+      "id" : "11",
+      "name": "Boys Jeans",
+      "img_url" : "Images/BoysJeans/img5.jpg",
+      "price" : 1200,
+      "rating": "5.0"
+    },
+    {
+      "id" : "12",
+      "name": "Boys Jeans",
+      "img_url" : "Images/BoysJeans/img4.jpg",
+      "price" : 1200,
+      "rating": "5.0"
+    }, 
+    {
+      "id" : "13",
+      "name": "Boys Jeans",
+      "img_url" : "Images/BoysJeans/img2.jpg",
+      "price" : 1150,
+      "rating": "5.0"
+    },
+    {
+      "id" : "14",
+      "name": "Boys Jeans",
+      "img_url" : "Images/BoysJeans/img3.jpg",
+      "price" : 1250,
+      "rating": "5.0"
+    },
+    {
+      "id" : "15",
+      "name": "Boys Jeans",
+      "img_url" : "Images/BoysJeans/img4.jpg",
+      "price" : 1000,
+      "rating": "5.0"
+    },
+    {
+      "id" : "16",
+      "name": "Boys Jeans",
+      "img_url" : "Images/BoysJeans/img5.jpg",
+      "price" : 1999,
+      "rating": "5.0"
+    },
+
+    {
+      "id" : "17",
+      "name": "Boys Jeans",
+      "img_url" : "Images/BoysJeans/img4.jpg",
+      "price" : 1200,
+      "rating": "5.0"
+    }, 
+    {
+      "id" : "18",
+      "name": "Boys Jeans",
+      "img_url" : "Images/BoysJeans/img2.jpg",
+      "price" : 1150,
+      "rating": "5.0"
+    },
+    {
+      "id" : "19",
+      "name": "Boys Jeans",
+      "img_url" : "Images/BoysJeans/img3.jpg",
+      "price" : 1250,
+      "rating": "5.0"
+    },
+    {
+      "id" : "20",
+      "name": "Boys jeans",
+      "img_url" : "Images/BoysJeans/img4.jpg",
+      "price" : 1000,
+      "rating": "5.0"
+    }
+   
+
+  ]
+  
+  
+}
+

@@ -1,0 +1,150 @@
+{
+  "jeans" : [
+  
+    {
+      "id" : "1",
+      "name": "jeans",
+      "img_url" : "Images/WomensJeans/img1.jpg",
+      "price" : 1200,
+      "rating": "4.0"
+    }, 
+    {
+      "id" : "2",
+      "name": "jeans",
+      "img_url" : "Images/WomensJeans/img2.jpg",
+      "price" : 1150,
+      "rating": "5.0"
+    },
+    {
+      "id" : "3",
+      "name": "jeans",
+      "img_url" : "Images/WomensJeans/img3.jpg",
+      "price" : 1250,
+      "rating": "5.0"
+    },
+    {
+      "id" : "4",
+      "name": "jeans",
+      "img_url" : "Images/WomensJeans/img4.jpg",
+      "price" : 1000,
+      "rating": "3.0"
+    },
+    {
+      "id" : "5",
+      "name": "jeans",
+      "img_url" : "Images/WomensJeans/img5.jpg",
+      "price" : 1999,
+      "rating": "5.0"
+    },
+
+    {
+      "id" : "6",
+      "name": "jeans",
+      "img_url" : "Images/WomensJeans/img4.jpg",
+      "price" : 1200,
+      "rating": "4.0"
+    }, 
+    {
+      "id" : "7",
+      "name": "jeans",
+      "img_url" : "Images/WomensJeans/img1.jpg",
+      "price" : 1150,
+      "rating": "5.0"
+    },
+    {
+      "id" : "8",
+      "name": "jeans",
+      "img_url" : "Images/WomensJeans/img2.jpg",
+      "price" : 1250,
+      "rating": "5.0"
+    },
+    {
+      "id" : "9",
+      "name": "jeans",
+      "img_url" : "Images/WomensJeans/img3.jpg",
+      "price" : 1000,
+      "rating": "3.0"
+    },
+    {
+      "id" : "10",
+      "name": "jeans",
+      "img_url" : "Images/WomensJeans/img4.jpg",
+      "price" : 1999,
+      "rating": "5.0"
+    },
+    {
+      "id" : "11",
+      "name": "jeans",
+      "img_url" : "Images/WomensJeans/img5.jpg",
+      "price" : 1200,
+      "rating": "4.0"
+    },
+    {
+      "id" : "12",
+      "name": "jeans",
+      "img_url" : "Images/WomensJeans/img4.jpg",
+      "price" : 1200,
+      "rating": "4.0"
+    }, 
+    {
+      "id" : "13",
+      "name": "jeans",
+      "img_url" : "Images/WomensJeans/img2.jpg",
+      "price" : 1150,
+      "rating": "5.0"
+    },
+    {
+      "id" : "14",
+      "name": "jeans",
+      "img_url" : "Images/WomensJeans/img3.jpg",
+      "price" : 1250,
+      "rating": "5.0"
+    },
+    {
+      "id" : "15",
+      "name": "jeans",
+      "img_url" : "Images/WomensJeans/img4.jpg",
+      "price" : 1000,
+      "rating": "3.0"
+    },
+    {
+      "id" : "16",
+      "name": "jeans",
+      "img_url" : "Images/WomensJeans/img5.jpg",
+      "price" : 1999,
+      "rating": "5.0"
+    },
+
+    {
+      "id" : "17",
+      "name": "jeans",
+      "img_url" : "Images/WomensJeans/img4.jpg",
+      "price" : 1200,
+      "rating": "4.0"
+    }, 
+    {
+      "id" : "18",
+      "name": "jeans",
+      "img_url" : "Images/WomensJeans/img2.jpg",
+      "price" : 1150,
+      "rating": "5.0"
+    },
+    {
+      "id" : "19",
+      "name": "jeans",
+      "img_url" : "Images/WomensJeans/img3.jpg",
+      "price" : 1250,
+      "rating": "5.0"
+    },
+    {
+      "id" : "20",
+      "name": "jeans",
+      "img_url" : "Images/WomensJeans/img4.jpg",
+      "price" : 1000,
+      "rating": "3.0"
+    }
+   
+
+  ]
+}
+
