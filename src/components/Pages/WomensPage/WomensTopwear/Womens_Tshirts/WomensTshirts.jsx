@@ -14,7 +14,7 @@ const WomensTshirts = () => {
         <aside className="w-[18%] h-[100vh] bg-purple-100 border-x-2 	border-left-width: 8px sticky top-0">
           <Wtshirtfilters />
         </aside>
-        <aside className="p-7 w-[82%] h-[100%] bg-purple-100 flex gap-10 flex-wrap">
+        <aside className="p-7 w-[82%] h-[100%] bg-purple-100  justify-center flex gap-10 flex-wrap">
           {tshirt.map((item) => {
             return (
               <div

@@ -14,7 +14,7 @@ const WomensTanktops = () => {
         <aside className="w-[18%] h-[100vh] bg-purple-100 border-x-2 	border-left-width: 8px sticky top-0">
           <Wtanktopfilter />
         </aside>
-        <aside className="p-7 w-[82%] h-[100%] bg-purple-100 flex gap-10 flex-wrap">
+        <aside className="p-7 w-[82%] h-[100%] bg-purple-100  justify-center flex gap-14 flex-wrap">
           {tanktops.map((item) => {
             return (
               <div
