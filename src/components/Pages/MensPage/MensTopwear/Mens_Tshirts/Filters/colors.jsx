@@ -17,12 +17,12 @@ const Colors = () => {
               <main className="pl-2">
                 <div
                   id="color-ball"
-                  className="pl-2 h-[15px] w-[15px] rounded-[50%]"
+                  className="pl-2 h-[15px] w-[15px] rounded-[50%] "
                   style={{ backgroundColor: e }}
                 ></div>
               </main>
 
-              <p className="pl-3"> {e} </p>
+              <p className="pl-3 font-ComicNeue font-bold"> {e} </p>
             </div>
           );
         })}

@@ -22,7 +22,7 @@ const Brands = () => {
                 type="checkbox"
                 className="scale-[0.9] rounded	border-radius: 0.25rem"
               />
-              <p className="pl-3 "> {e} </p>
+              <p className="pl-3  font-ComicNeue font-bold"> {e} </p>
             </div>
           );
         })}

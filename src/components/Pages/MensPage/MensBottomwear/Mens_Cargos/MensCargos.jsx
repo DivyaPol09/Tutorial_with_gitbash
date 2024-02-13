@@ -1,7 +1,7 @@
 import React from "react";
 import MensCragosData from "../../../../jsonfiles/mensCargos.json";
 import { ImStarFull } from "react-icons/im";
-import { Button } from "flowbite-react";
+// import { Button } from "flowbite-react";
 import MenscargoFilter from "./Filters/filters";
 
 const MensCargos = () => {
@@ -11,10 +11,10 @@ const MensCargos = () => {
   return (
     <>
       <div className=" min-h-[100vh] w-[100%] flex">
-        <aside className="w-[18%] h-[100vh] bg-purple-100 border-x-2 	border-left-width: 8px sticky top-0">
+        <aside className="w-[18%] h-[100vh] bg-purple-50 border-x-2 	border-left-width: 8px sticky top-0">
           <MenscargoFilter />
         </aside>
-        <aside className="p-7 w-[82%] h-[100%] bg-purple-100 justify-center flex gap-10 flex-wrap">
+        <aside className="p-7 w-[82%] h-[100%] bg-purple-50 justify-center flex gap-14 flex-wrap">
           {mensCargo.map((item) => {
             return (
               <div
@@ -27,7 +27,7 @@ const MensCargos = () => {
                   className="w-[232px] h-[300px] max-w-xs rounded-lg transition duration-300 ease-in-out hover:scale-110 "
                 />
                 <article>
-                  <p className="text-lg font-semibold tracking-tight text-gray-900 dark:text-white pb-1 pl-2 pt-2 mt-1">
+                  <p className="text-lg font-ComicNeue font-bold tracking-tight text-gray-900 dark:text-white pb-1 pl-2 pt-2 mt-1">
                     {" "}
                     {item.name}
                   </p>
@@ -41,18 +41,21 @@ const MensCargos = () => {
                       {item.rating}
                     </span>
                   </div>
-                  <div className="flex items-center">
-                    <h3 className="text-2xl pl-2 pt-0 mt-2 font-bold text-gray-900 dark:text-white">
+                  <div className="flex items-center ">
+                    <h3 className="text-2xl pl-2 pt-0 mt-2  text-gray-900 dark:text-white font-sans font-bold">
                       {item.price}.Rs
                     </h3>
 
-                    <Button
-                      className="flex-shrink-0 h-10  mb-0 ml-3 mt-2"
+                    {/* <Button
+                      className="flex-shrink-0 h-10  mb-0 ml-3 mt-2 font-ComicNeue font-bold"
                       outline
                       gradientDuoTone="greenToBlue"
                     >
                       Add to Cart
-                    </Button>
+                    </Button> */}
+                    <button className="px-4 py-1.5 ml-4 mt-2  bg-purple-200 font-sans font-medium text-black rounded-lg hover:bg-purple-300 ">
+                      Add to Cart
+                    </button>
                   </div>
                 </article>
               </div>
